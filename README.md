@@ -19,6 +19,7 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 
 **My tech stack:**
 - Things I'm good at: <br/>
+<div style="display: flex; flex-direction: row;">
 <img width="30px" height="30px" alt="HTML 5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
 <img width="30px" height="30px" alt="CSS 3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" />
 <img width="30px" height="30px" alt="JS" src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640" />
@@ -28,8 +29,10 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 <img width="30px" height="30px" alt="NgRx" src="https://ngrx.io/assets/images/badge.svg"/>
 <img width="30px" height="30px" alt="SCSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />
 <img width="30px" height="30px" alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
+</div>
 
 - Things I know: <br/>
+<div style="display: flex; flex-direction: row;">
 <img width="90px" height="25px" alt="Docker" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" />
 <img width="60px" height="30px" alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" />
 <img width="30px" height="30px" alt="Nest.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />
@@ -39,8 +42,10 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 <img width="35px" height="30px" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
 <img width="35px" height="30px" alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042"/>
 <img width="30px" height="30px" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
+</div>
 
 - Things I have basic knowledge about: <br/>
+<div style="display: flex; flex-direction: row;">
 <img width="30px" height="30px" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img width="30px" height="30px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img width="120px" height="30px" alt="Spring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" />
@@ -50,6 +55,7 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 <img width="120px" height="30px" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
 <img width="40px" height="30px" alt="ArangoDB" src="https://upload.wikimedia.org/wikipedia/en/3/3a/ArangoDB_Logo.png" />
 <img width="30px" height="30px" alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" /> 
+</div>
 <br/>
 <br/>
 
