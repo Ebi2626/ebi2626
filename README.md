@@ -62,17 +62,68 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 ## My recent personal projects
 
 ### Data-driven development app
-**Project type:** Full-stack
+**Project type:** Full-stack (Angular, Nest.js, ArangoDB)
 
-It is a project of application which help modern people to achieve their self-devlopment goals. It use the best psychological tricks to let people fight back with destructive influence of modern technology and keep raising in the areas they love.     <p>
+It is a project of application which help modern people to achieve their self-devlopment goals. It use the best psychological tricks to let people fight back with destructive influence of modern technology and keep raising in the areas they love. I've prepared it to learn how to create full-stack applications from scratch with modern technologies.
+
 **Repo link:** [DDDApp](https://github.com/Ebi2626/DDDApp)
   
-### Archictecture overview
+#### Archictecture overview
             
 - **Front-end:** Angular, Typescript, Sass, CSS, Bootstrap, RxJs, NgRx, HTML, Yarn, JSON, Chart.js, Docker, JWT
 - **Back-end:** Nest.js, KeyCloak, Mailhog, Node.js, Express, RxJs, Typescript, JSON, JWT, Docker, YAML
 - **Databases:** PostgreSQL, ArangoDB
 
 ![DDDApp](/assets/img/dddapp.png)
+
+### Interactive board
+**Project type:** Front-end (Angular)
+
+Simple application to create type connection view on the board in the browser. It allow to create custom types representing on the board and link them with lines. All types on the board are "draggable" and we can create structure with multiple copies of the same time. It was prepared as a recruitment task and I used this opportunity to discover Angular Material and newest Angular features such as signals or new control flow.
+
+**Repo link:** [Interactive board](https://github.com/Ebi2626/interactiveBoard)
+
+**Live preview:** [Preview](https://ebi2626.github.io/interactiveBoard/)
+  
+#### Used technologies
+            
+- **Front-end:** Angular, Typescript, Sass, CSS, Angular Material, RxJs, HTML, npm, ramda, signals, canvas 
+
+<br />
+
+![InteractiveBoard](/assets/img/interactiveBoard.png)
+
+### My favourite wallpapers
+**Project type:** Front-end (React)
+
+Simple application to fetching and saving wallpapers from Unsplash API with given parameters. I've used it to learn how to authenticate and use public API's and LocalStorage in React.
+
+**Repo link:** [My favourite wallpapers](https://github.com/Ebi2626/my-fav-wallpapers)
+
+**Live preview:** [Preview](https://mywallpapers.netlify.app/)
+  
+#### Used technologies
+            
+- **Front-end:** React, Sass, HTML, CSS, Axios, styled-components, unsplash.js, font-awesome, local storage
+
+<br />
+
+![My favourite wallpaper](/assets/img/myFavWallpapers.png)
+
+### People API
+**Project type:** Backend (Node.js)
+
+Simple REST API created to explore basics of backend development in Node.js. It provides all CRUD endpoint to manage list of simple "People" objects with first and last name. It's working on plain json file instead of DB, because I wanted to learn how to handle files operations in Node.js
+
+**Repo link:** [People API](https://github.com/Ebi2626/peopleApi)
+
+  
+#### Used technologies
+            
+- **Back-end:** Node.js, Express, Handlebars, Axios, Sass, node-sass, cors, REST
+
+<br />
+
+![People API](/assets/img/peopleApi.png)
 
 
