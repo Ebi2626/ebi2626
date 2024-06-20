@@ -59,4 +59,74 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 <br/>
 <br/>
 
+## My recent personal projects
 
+<div style="display: flex; flex-direction: column; gap: 2rem;">
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; padding: 2rem; border: solid 1px black; border-radius: 8px; ">
+    <h2 style="margin-bottom: 2rem;">
+    Data-driven development app
+    <span style="display:inline-block; margin-left: 1rem; padding: 4px 8px; border-radius: 12px; background-color: green; font-size: 1rem;">Full-stack</span>
+    </h2>
+    <p>
+    It is a project of application which help modern people to achieve their self-devlopment goals. It use the best psychological tricks to let people fight back with destructive influence of modern technology and keep raising in the areas they love.
+    </p>
+    <p>
+        <b>Repo link:</b>
+        <a href="https://github.com/Ebi2626/DDDApp">DDDApp</a>
+    </p>
+    <div style="display: flex; flex-direction: row; flex-wrap: wrap; width: 100%; justify-content: space-between;">
+        <div style="max-width: 300px;">
+            <h3>Archictecture overview</h3>
+            <ul>
+                <li><b>Front-end:</b> Angular</li>
+                <li><b>Back-end:</b> Nest.js, KeyCloak, Mailhog</li>
+                <li><b>Databases:</b> PostgreSQL, ArangoDB</li>
+            </ul>
+        </div>
+        <img src="./assets/img/dddapp.png" style="max-width: 500px; height: auto;">
+    </div>
+    <h3>Used technologies</h3>
+    <ul style="padding-left: 1rem; list-style-type: none; display: flex; gap: 1rem; flex-direction: column;">
+        <li>Front-end: 
+            <ul style="padding-left: 1rem; list-style-type: none; display: flex; gap: 0.5rem; flex-direction: row;">
+                <li>TypeScript</li>
+                <li>SASS</li>
+                <li>CSS</li>
+                <li>Angular</li>
+                <li>Bootstrap</li>
+                <li>RxJs</li>
+                <li>NgRx</li>
+                <li>HTML</li>
+                <li>Yarn</li>
+                <li>JSON</li>
+                <li>Chart.js</li>
+                <li>Docker</li>
+                <li>JWT</li>
+            </ul>
+        </li>
+        <li>Back-end: 
+            <ul style="padding-left: 1rem; list-style-type: none; display: flex; gap: 0.5rem; flex-direction: row;">
+                <li>Node.js</li>
+                <li>TypeScript</li>
+                <li>Nest.js</li>
+                <li>Express</li>
+                <li>RxJs</li>
+                <li>JSON</li>
+                <li>KeyCloak</li>
+                <li>JWT</li>
+                <li>MailHog</li>
+                <li>Docker</li>
+                <li>YAML</li>
+            </ul>
+        </li>
+            <li>Databases: 
+            <ul style="padding-left: 1rem; list-style-type: none; display: flex; gap: 0.5rem; flex-direction: row;">
+                <li>ArangoDB</li>
+                <li>PostgreSQL</li>
+                <li>Docker (both db's were contenerized)</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+</div>
