@@ -58,7 +58,7 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 </div>
 <br/>
 <br/>
-[![roadmap.sh](https://roadmap.sh/card/tall/66c2fcba837d383f4afb0494?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c2fcba837d383f4afb0494?variant=dark" alt="roadmap.sh"/></a>
 
 ## My recent personal projects
 
