@@ -1,6 +1,6 @@
 ### Hello World 👋 It's [Edwin!](https:edwinharmata.pl)
 
-Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and computer science degree. Apart from that I love extending my tech stack with new tools and languages.❤✌
+Hi, I'm Edwin Harmata🙌, a Software Engineer with solid Angular background and computer science degree. Apart from that I love extending my tech stack with new tools and languages ❤✌
 
 
 <img align="right" alt="Some animation with some guy writing the code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBqbTIzeGp5bWszdjU5Mm5lNG44a3BjY2lxMWw0dGM4MGJmbmx1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" />
@@ -9,8 +9,8 @@ Hi, I'm Edwin Harmata🙌, a Web Developer with solid Angular background and com
 
 **About me:**
 
-- 🔭 I’m currently working as Front-End Developer at [Onwelo](https://onwelo.com)
-- 🌱 I’m currently learning Java and Spring
+- 🔭 I’m currently working as Software Engineer at [Motorola Solutions](https://www.motorolasolutions.com/)
+- 🌱 I’m currently learning C++
 - 🎓 I'm pursuing IT master degree
 - 📫 How to reach me: <a href="mailto:edwinharmata@gmail.com">edwin.harmata@gmail.com</a>
 - 📝[Personal website](https://edwinharmata.pl/)
